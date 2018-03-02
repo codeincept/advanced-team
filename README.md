@@ -1,1 +1,1 @@
-# advanced-team
+# advanced team wordpress plugin by CodeIncept
